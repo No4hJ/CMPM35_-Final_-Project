@@ -6,4 +6,4 @@ Lily Li
 Zeyu (Aaron) Zhang
 Bianca Hsieh
 
-![](image/.png)
+![](image/OBJ loader w MTL - Google Chrome 2020_12_14 0_33_47.png)
